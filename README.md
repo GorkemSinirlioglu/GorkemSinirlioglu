@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS
 
 Here are a few projects of mine to have a look at:
-- https://xa.ivao.aero/webdemo (In Progress)
+- https://xa.ivao.aero/webdemo
 - http://learnengineering.tech/
 
 <!---
