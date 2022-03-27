@@ -22,6 +22,7 @@
 
 
 ### 🔥 Stats
+<p>All of these stats are only on public repositories. Contributions into private repositories are not taken into account.</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GorkemSinirlioglu&theme=gruvbox" alt="GorkemSinirlioglu"  /></p>
 
 <hr>
